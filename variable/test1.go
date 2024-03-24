@@ -12,8 +12,9 @@ func main() {
 	//a="jyoti" //you cannt change type means it is statically type not dynamically type.
 
 	//a:=5 //you cannt re-initialized variable identifier
-	fmt.Println(a)
+	fmt.Println(a) 
 
+	
 	//a:="jyoti" //you cannt re-initialized variable identifier for different type.
 	// ***********declaration************
 	g:="jyoti"
