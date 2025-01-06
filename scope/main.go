@@ -51,6 +51,7 @@ func main() {
 		take a look at the "comma ok idiom"
 		https://go.dev/doc/effective_go#maps
 	*/
+	furtherexplored.Exercise()
 }
 
 func printMe() {

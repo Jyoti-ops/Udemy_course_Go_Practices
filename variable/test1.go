@@ -2,7 +2,7 @@ package main
 
 import (
 "fmt"
-"Udemy_course_Go_Practices/variable/iota"
+"Udemy_course-Go_by_own_practice/variable/iota"
 )
 
 func main() {
