@@ -52,4 +52,28 @@ fmt.Println("*********")
 // 	m[i]++  //count word 
 // }
 
+
+// we can declare and initialize it later using make function and short handed operator both, 
+// we cannt do when we are declaring with var keyword 
+
+m2:=map[int]int{}
+
+fmt.Println(m2)
+m2[0]=1
+fmt.Println(m2)
+
+fmt.Println("********")
+
+m3:=make(map[int]int)
+fmt.Println(m3)
+m3[0]=1
+fmt.Println(m3)
+
+fmt.Println("********")
+
+var m4 map[int]int
+
+fmt.Println(m4)
+m4[0]=1
+fmt.Println(m4)
 }
